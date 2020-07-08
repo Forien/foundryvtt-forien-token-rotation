@@ -1,0 +1,10 @@
+{
+  "ForienTokenRotation": {
+    "Settings": {
+      "playersWelcomeScreen": {
+        "Enable": "Pokazuj graczom Ekran Powitalny",
+        "EnableHint": "Odznacz, aby graczom nie wyświetlać po zalogowaniu Ekranu Powitalnego z każdą nową wersją."
+      }
+    }
+  }
+}

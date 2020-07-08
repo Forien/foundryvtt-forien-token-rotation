@@ -1,0 +1,39 @@
+{
+  "name": "forien-token-rotation",
+  "title": "Forien's Token Rotation",
+  "description": "Allows to rotate Tokens by dragging an \"anchor\" around token.",
+  "author": "Forien — Forien#2130",
+  "authors": [
+    {
+      "name": "Forien",
+      "url": "https://github.com/Forien/foundryvtt-forien-token-rotation"
+    }
+  ],
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.5",
+  "url": "https://github.com/Forien/foundryvtt-forien-token-rotation",
+  "manifest": "https://raw.githubusercontent.com/Forien/foundryvtt-forien-token-rotation/master/module.json",
+  "download": "https://github.com/Forien/foundryvtt-forien-token-rotation/releases/download/v0.1.0/v0.1.0.zip",
+  "readme": "https://github.com/Forien/foundryvtt-forien-token-rotation/blob/v0.1.0/README.md",
+  "changelog": "https://github.com/Forien/foundryvtt-forien-token-rotation/blob/v0.1.0/changelog.md",
+  "bugs": "https://github.com/Forien/foundryvtt-forien-token-rotation/issues",
+  "esmodules": [
+    "./modules/init.mjs"
+  ],
+  "styles": [
+    "./styles/anchor.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "lang/pl.json"
+    }
+  ]
+}
