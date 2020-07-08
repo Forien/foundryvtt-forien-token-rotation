@@ -14,7 +14,7 @@ This module provides ability to rotate Tokens by dragging an "anchor" around tok
 2. While loaded in World, enable **_Forien's Token Rotation_** module.
 
 ## Usage
-Right click on token to bring up a Token HUD. Find rotation indicator `p` and drag it around. Release to update Token's rotation
+Right click on token to bring up a Token HUD. Find rotation indicator `⟳` and drag it around. Release to update Token's rotation
   
 ![GIF](https://i.gyazo.com/61d05e550b167d3359180602cbbf2d5d.gif)
 
