@@ -74,7 +74,7 @@ export default class DragAnchor {
   async updateToken(angleRad) {
     let angleDeg = this.radToDeg(angleRad);
 
-    return this.token.update({rotation: angleDeg});
+    return this.token.document.update({rotation: angleDeg});
   }
 
   degToRad(degrees) {
